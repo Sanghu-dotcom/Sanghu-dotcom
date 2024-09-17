@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sanghu-dotcom
+- 👋 Hi, I’m @Sangeeta-dotcom
 - 👀 I’m interested in ... exploring new things
 - 🌱 I’m currently learning ... Full stack development 
 - 📫 How to reach me ...through mail(kyadiggerisangeeta@gmail.com) 
